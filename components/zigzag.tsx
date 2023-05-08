@@ -2,7 +2,7 @@ import Image from "next/image";
 
 import FeatImage01 from "@/public/images/Presale_site.png";
 import FeatImage02 from "@/public/images/staking_mair.png";
-import FeatImage03 from "@/public/images/iphone_app_mair.webp";
+import FeatImage03 from "@/public/images/iphone_app_mair.png";
 
 export default function Zigzag() {
   return (
