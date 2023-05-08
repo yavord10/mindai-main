@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 import FeatImage01 from "@/public/images/Presale_site.png";
-import FeatImage02 from "@/public/images/features-03-image-02.png";
+import FeatImage02 from "@/public/images/staking_mair.png";
 import FeatImage03 from "@/public/images/features-03-image-03.png";
 
 export default function Zigzag() {
@@ -112,13 +112,12 @@ export default function Zigzag() {
               >
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
-                    More speed. Less spend
+                    Staking
                   </div>
-                  <h3 className="h3 mb-3">Keep projects on schedule</h3>
+                  <h3 className="h3 mb-3">Demo app is live</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    Our staking app is live for users to test. We are working
+                    hard on further features.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
