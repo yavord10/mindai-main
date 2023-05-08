@@ -7,7 +7,7 @@ export default function Features() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">TOKENOMICS</h2>
             <p className="text-xl text-gray-400">
-              After the pre-sale funds have been gathered, they will be utilized
+              After the Presale funds have been gathered, they will be utilized
               in a strategic manner to ensure the long-term success and growth
               of the project. The project team will work diligently to ensure
               that the funds are used effectively and efficiently to build a
@@ -56,7 +56,7 @@ export default function Features() {
                 <span className="text-emerald-400">20%</span> Token Distribution
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Allocate 20% of tokens for distribution to pre-sale investors,
+                Allocate 20% of tokens for distribution to Presale investors,
                 with a vesting period of 6 months.
               </p>
             </div>
@@ -98,7 +98,7 @@ export default function Features() {
                 <span className="text-emerald-400">10%</span> Community Building
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Allocate 10% of the pre-sale funds to building the project
+                Allocate 10% of the Presale funds to building the project
                 community. This could include hosting meetups, webinars, and
                 other events to engage with the community and build awareness of
                 the project.
@@ -153,7 +153,7 @@ export default function Features() {
                 <span className="text-emerald-400">30%</span> Marketing Strategy
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Allocate 30% of the pre-sale funds to marketing and development
+                Allocate 30% of the Presale funds to marketing and development
                 activities. This could include advertising, social media
                 campaigns, and development of the project roadmap.
               </p>
@@ -200,7 +200,7 @@ export default function Features() {
                 <span className="text-emerald-400">5%</span> Token Burn
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Burn 5% of the pre-sale tokens to reduce the supply and increase
+                Burn 5% of the Presale tokens to reduce the supply and increase
                 the value of the remaining tokens.
               </p>
             </div>
@@ -244,7 +244,7 @@ export default function Features() {
                 Provision
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Allocate 20% of the pre-sale funds to liquidity provision on
+                Allocate 20% of the Presale funds to liquidity provision on
                 decentralized exchanges (DEXs). This can help to ensure that the
                 token is easily accessible and tradeable.
               </p>
@@ -295,10 +295,10 @@ export default function Features() {
                 <span className="text-emerald-400">5%</span> Audit and Security
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Allocate 5% of the pre-sale funds to audit and security
-                measures. This could include smart contract audits, penetration
-                testing, and other security measures to ensure the safety and
-                security of the project.
+                Allocate 5% of the Presale funds to audit and security measures.
+                This could include smart contract audits, penetration testing,
+                and other security measures to ensure the safety and security of
+                the project.
               </p>
             </div>
           </div>

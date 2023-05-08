@@ -46,9 +46,9 @@ export default function Zigzag() {
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
-                    Pre-sale is live
+                    Presale is live
                   </div>
-                  <h3 className="h3 mb-3">Participate in our Pre-sale</h3>
+                  <h3 className="h3 mb-3">Participate in our Presale</h3>
                   <p className="text-xl text-gray-400 mb-4">
                     Swap USDT or ETH for $MAIR with 0 fees for only $0.21
                     compared to the public sale for $0.53.
@@ -62,7 +62,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Pre-sale coming soon!</span>
+                      <span>Presale coming soon!</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
