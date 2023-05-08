@@ -50,10 +50,8 @@ export default function Zigzag() {
                   </div>
                   <h3 className="h3 mb-3">Participate in our Presale</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Buy $MAIR tokens at a very discounted price in the Presale.
-                    Swap ETH for $MAIR without any fees at the lowest price.
-                    During the Presale $MAIR is available for only $0.21
-                    compared to the public sale for $0.53
+                    Swap USDT or ETH for $MAIR with 0 fees for only $0.21
+                    compared to the public sale for $0.53.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
