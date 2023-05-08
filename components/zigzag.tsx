@@ -46,9 +46,9 @@ export default function Zigzag() {
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
-                    Presale is live
+                    Pre-sale is live
                   </div>
-                  <h3 className="h3 mb-3">Participate in our Presale</h3>
+                  <h3 className="h3 mb-3">Participate in our Pre-sale</h3>
                   <p className="text-xl text-gray-400 mb-4">
                     Swap USDT or ETH for $MAIR with 0 fees for only $0.21
                     compared to the public sale for $0.53.

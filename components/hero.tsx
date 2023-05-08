@@ -54,10 +54,10 @@ export default function Hero() {
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              Presale is coming soon. Buy $MAIR tokens at a very discounted
-              price in the Presale. Swap ETH for $MAIR without any fees at the
-              lowest price. During the Presale $MAIR is available for only $0.21
-              compared to the public sale for $0.53
+              Pre-sale is coming soon. Buy $MAIR tokens at a very discounted
+              price in the Pre-sale. Swap ETH for $MAIR without any fees at the
+              lowest price. During the Pre-sale $MAIR is available for only
+              $0.21 compared to the public sale for $0.53
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
@@ -65,7 +65,7 @@ export default function Hero() {
                   className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0 rounded-lg"
                   href="https://mindaiapp.netlify.app/"
                 >
-                  Join Presale
+                  Join Pre-sale
                 </a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
