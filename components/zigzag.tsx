@@ -2,7 +2,7 @@ import Image from "next/image";
 
 import FeatImage01 from "@/public/images/Presale_site.png";
 import FeatImage02 from "@/public/images/staking_mair.png";
-import FeatImage03 from "@/public/images/features-03-image-03.png";
+import FeatImage03 from "@/public/images/iphone_app_mair.webp";
 
 export default function Zigzag() {
   return (
@@ -12,12 +12,13 @@ export default function Zigzag() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">
-              Reach goals that matter
+              Revolutionizing the Music Industry
             </div>
-            <h1 className="h2 mb-4">One product, unlimited solutions</h1>
+            <h1 className="h2 mb-4">
+              MindAI Music Suite of Apps and Solutions
+            </h1>
             <p className="text-xl text-gray-400">
-              Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-              officia deserunt mollit laborum — semper quis lectus nulla.
+              Seamless applications, powerful utility, ambitious roadmap
             </p>
           </div>
 
@@ -63,7 +64,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Pre-sale coming soon!</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -73,7 +74,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>Discounted rate to participate in project!</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -83,7 +84,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Be one of the first to join our community!</span>
                     </li>
                   </ul>
                 </div>
@@ -128,7 +129,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Stake $MAIR to earn rewards!</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -138,7 +139,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>Further utility will be added to app!</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -148,7 +149,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Get further rewards when publishing music!</span>
                     </li>
                   </ul>
                 </div>
@@ -177,13 +178,12 @@ export default function Zigzag() {
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
-                    More speed. Less spend
+                    Mobile app
                   </div>
-                  <h3 className="h3 mb-3">Keep projects on schedule</h3>
+                  <h3 className="h3 mb-3">Mobile App coming soon</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    A mobile application for publishing, streaming and sharing
+                    all music is currently in development.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -194,7 +194,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Publish, stream and share music!</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -204,7 +204,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>Gather rewards in $MAIR!</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -214,7 +214,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Use from the comfort of your phone or tablet!</span>
                     </li>
                   </ul>
                 </div>
