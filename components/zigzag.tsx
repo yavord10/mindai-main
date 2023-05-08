@@ -114,7 +114,7 @@ export default function Zigzag() {
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
                     Staking
                   </div>
-                  <h3 className="h3 mb-3">Demo app is live</h3>
+                  <h3 className="h3 mb-3">Staking Demo App is live</h3>
                   <p className="text-xl text-gray-400 mb-4">
                     Our staking app is live for users to test. We are working
                     hard on further features.
