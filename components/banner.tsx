@@ -12,7 +12,7 @@ export default function Banner() {
           <div className="bg-slate-800 text-slate-50 text-sm p-3 shadow-lg flex justify-between rounded-lg">
             <div className="text-slate-500 inline-flex">
               <a
-                className="font-medium hover:underline text-slate-50"
+                className="font-medium hover:underline text-slate-50 text-emerald-400"
                 href="https://mindaiapp.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
