@@ -1,4 +1,4 @@
-import VideoThumb from "@/public/images/hero-image-01.jpg";
+import Presale from "@/public/images/Presale_site.png";
 import ModalVideo from "@/components/modal-video";
 
 export default function Hero() {
@@ -47,38 +47,40 @@ export default function Hero() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h1 mb-4" data-aos="fade-up">
-              Mind AI
+              Mind AI Records
             </h1>
             <p
               className="text-xl text-gray-400 mb-8"
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              Our landing page template works on all devices, so you only have
-              to set it up once, and get beautiful results forever.
+              Presale is coming soon. Buy $MAIR tokens at a very discounted
+              price in the Presale. Swap ETH for $MAIR without any fees at the
+              lowest price. During the Presale $MAIR is available for only $0.21
+              compared to the public sale for $0.53
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
                 <a
                   className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0 rounded-lg"
-                  href="#0"
+                  href="https://mindaiapp.netlify.app/"
                 >
-                  Start free trial
+                  Join Presale
                 </a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
                 <a
                   className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4 rounded-lg"
-                  href="#0"
+                  href="https://famous-zabaione-503ef4.netlify.app/"
                 >
-                  Learn more
+                  Check Demo Staking App
                 </a>
               </div>
             </div>
           </div>
 
           <ModalVideo
-            thumb={VideoThumb}
+            thumb={Presale}
             thumbWidth={1024}
             thumbHeight={576}
             thumbAlt="Modal video thumbnail"
