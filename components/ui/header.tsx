@@ -12,7 +12,12 @@ export default function Header() {
           <div className="shrink-0 mr-4">
             {/* Logo */}
             <Link href="/" className="block" aria-label="Cruip">
-              <Image className="w-20 h-20" src={Logo} alt="logo" />
+              <Image
+                className="w-20 h-20"
+                src={Logo}
+                alt="logo"
+                style={{ transform: "scaleX(-1)" }}
+              />
             </Link>
           </div>
 
