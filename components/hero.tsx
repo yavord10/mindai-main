@@ -76,6 +76,14 @@ export default function Hero() {
                   Check Demo Staking App
                 </a>
               </div>
+              <div data-aos="fade-up" data-aos-delay="600">
+                <a
+                  className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4 rounded-lg"
+                  href="https://extraordinary-paletas-55882a.netlify.app"
+                >
+                  Check Demo Minting App
+                </a>
+              </div>
             </div>
           </div>
 

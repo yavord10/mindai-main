@@ -41,6 +41,14 @@ export default function Header() {
                   Staking App
                 </Link>
               </li>
+              <li>
+                <Link
+                  href="https://extraordinary-paletas-55882a.netlify.app"
+                  className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3 rounded-lg"
+                >
+                  Minting App
+                </Link>
+              </li>
             </ul>
           </nav>
 
