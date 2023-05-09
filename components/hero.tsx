@@ -54,10 +54,11 @@ export default function Hero() {
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              Presale is coming soon. Buy $MAIR tokens at a very discounted
-              price in the Presale. Swap ETH for $MAIR without any fees at the
-              lowest price. During the Presale $MAIR is available for only $0.21
-              compared to the public sale for $0.53
+              Presale coming soon! Purchase $MAIR tokens at a substantial
+              discount and seamlessly swap ETH for $MAIR without incurring any
+              fees, securing the lowest available price. During the Presale,
+              $MAIR tokens will be available at only $0.21 per token, compared
+              to the public sale price of $0.53.
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
@@ -81,7 +82,7 @@ export default function Hero() {
                   className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4 rounded-lg"
                   href="https://extraordinary-paletas-55882a.netlify.app"
                 >
-                  Check Demo Minting App
+                  Check Demo NFT Minting App
                 </a>
               </div>
             </div>

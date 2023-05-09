@@ -11,7 +11,7 @@ export default function Header() {
           {/* Site branding */}
           <div className="shrink-0 mr-4">
             {/* Logo */}
-            <Link href="/" className="block" aria-label="Cruip">
+            <Link href="/" className="block" aria-label="MindAI">
               <Image
                 className="w-20 h-20"
                 src={Logo}
@@ -46,7 +46,7 @@ export default function Header() {
                   href="https://extraordinary-paletas-55882a.netlify.app"
                   className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3 rounded-lg"
                 >
-                  Minting App
+                  NFT Minting App
                 </Link>
               </li>
             </ul>
