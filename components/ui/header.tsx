@@ -1,6 +1,6 @@
 import Link from "next/link";
 import MobileMenu from "./mobile-menu";
-import Logo from "@/public/images/logo_new_png";
+import Logo from "@/public/images/logo_new.png";
 import Image from "next/image";
 
 export default function Header() {
@@ -12,12 +12,7 @@ export default function Header() {
           <div className="shrink-0 mr-4">
             {/* Logo */}
             <Link href="/" className="block" aria-label="MindAI">
-              <Image
-                className="w-20 h-20"
-                src={Logo}
-                alt="logo"
-                style={{ transform: "scaleX(-1)" }}
-              />
+              <Image className="w-24" src={Logo} alt="logo" />
             </Link>
           </div>
 
