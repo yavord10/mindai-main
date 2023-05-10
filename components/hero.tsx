@@ -80,7 +80,7 @@ export default function Hero() {
               <div data-aos="fade-up" data-aos-delay="600">
                 <a
                   className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4 rounded-lg"
-                  href="https://extraordinary-paletas-55882a.netlify.app"
+                  href="https://genuine-creponne-891d29.netlify.app/"
                 >
                   Check Demo NFT Minting App
                 </a>

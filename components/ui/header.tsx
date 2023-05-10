@@ -43,7 +43,7 @@ export default function Header() {
               </li>
               <li>
                 <Link
-                  href="https://extraordinary-paletas-55882a.netlify.app"
+                  href="https://genuine-creponne-891d29.netlify.app/"
                   className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3 rounded-lg"
                 >
                   NFT Minting App
