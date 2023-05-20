@@ -194,17 +194,36 @@ export default function Footer() {
                 <Link
                   href="/"
                   className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out"
-                  aria-label="Linkedin"
+                  aria-label="Telegram"
                 >
                   <svg
-                    className="w-8 h-8 fill-current"
-                    version="1.1"
-                    id="Layer_1"
                     xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 455 455"
+                    viewBox="0,0,256,256"
+                    width="25px"
+                    height="25px"
+                    fill-rule="nonzero"
+                    className="w-8 h-8 fill-current"
                   >
-                    <path d="M0,0v455h455V0H0z M384.814,100.68l-53.458,257.136 c-1.259,6.071-8.378,8.822-13.401,5.172l-72.975-52.981c-4.43-3.217-10.471-3.046-14.712,0.412l-40.46,32.981 c-4.695,3.84-11.771,1.7-13.569-4.083l-28.094-90.351l-72.583-27.089c-7.373-2.762-7.436-13.171-0.084-16.003L373.36,90.959 C379.675,88.517,386.19,94.049,384.814,100.68z"></path>
-                    <path d="M313.567,147.179l-141.854,87.367c-5.437,3.355-7.996,9.921-6.242,16.068 l15.337,53.891c1.091,3.818,6.631,3.428,7.162-0.517l3.986-29.553c0.753-5.564,3.406-10.693,7.522-14.522l117.069-108.822 C318.739,149.061,316.115,145.614,313.567,147.179z"></path>
+                    <g
+                      width="25px"
+                      height="25px"
+                      fill-rule="nonzero"
+                      stroke="none"
+                      stroke-width="1"
+                      stroke-linecap="butt"
+                      stroke-linejoin="miter"
+                      stroke-miterlimit="10"
+                      stroke-dasharray=""
+                      stroke-dashoffset="0"
+                      font-family="none"
+                      font-weight="none"
+                      font-size="none"
+                      text-anchor="none"
+                    >
+                      <g transform="scale(5.12,5.12)">
+                        <path d="M46.137,6.552c-0.75,-0.636 -1.928,-0.727 -3.146,-0.238h-0.002c-1.281,0.514 -36.261,15.518 -37.685,16.131c-0.259,0.09 -2.521,0.934 -2.288,2.814c0.208,1.695 2.026,2.397 2.248,2.478l8.893,3.045c0.59,1.964 2.765,9.21 3.246,10.758c0.3,0.965 0.789,2.233 1.646,2.494c0.752,0.29 1.5,0.025 1.984,-0.355l5.437,-5.043l8.777,6.845l0.209,0.125c0.596,0.264 1.167,0.396 1.712,0.396c0.421,0 0.825,-0.079 1.211,-0.237c1.315,-0.54 1.841,-1.793 1.896,-1.935l6.556,-34.077c0.4,-1.82 -0.156,-2.746 -0.694,-3.201zM22,32l-3,8l-3,-10l23,-17z"></path>
+                      </g>
+                    </g>
                   </svg>
                 </Link>
               </li>
