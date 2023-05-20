@@ -41,32 +41,58 @@ export default function Newsletter() {
           </div>
 
           <div className="relative flex flex-col lg:flex-row justify-between items-center">
-            {/* CTA content */}
             <div className="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-1/2">
               <h3 className="h3 text-white mb-2">Stay in the loop</h3>
               <p className="text-purple-200 text-lg">
-                Join our newsletter to get top news before anyone else.
+                Join our Telegram group.
               </p>
             </div>
 
-            {/* CTA form */}
             <form className="w-full lg:w-1/2">
-              <div className="flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
-                <input
-                  type="email"
-                  className="w-full appearance-none bg-purple-700 border border-purple-500 focus:border-purple-300 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2 text-white placeholder-purple-400 rounded-lg"
-                  placeholder="Your best email…"
-                  aria-label="Your best email…"
-                />
+              <div className="flex flex-col sm:flex-row justify-end max-w-xs mr-auto sm:max-w-md lg:max-w-none">
                 <a
                   className="btn text-purple-600 bg-purple-100 hover:bg-white shadow rounded-lg"
-                  href="#0"
+                  href="https://t.me/mindaimusic"
                 >
-                  Subscribe
+                  Join
+                  <svg
+                    fill="#ffffff"
+                    height="200px"
+                    width="200px"
+                    version="1.1"
+                    id="Layer_1"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="-45.5 -45.5 546.00 546.00"
+                    stroke="#ffffff"
+                  >
+                    <g id="SVGRepo_bgCarrier" stroke-width="0">
+                      <rect
+                        x="-45.5"
+                        y="-45.5"
+                        width="546.00"
+                        height="546.00"
+                        rx="0"
+                        fill="#7ed0ec"
+                      ></rect>
+                    </g>
+                    <g
+                      id="SVGRepo_tracerCarrier"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke="#CCCCCC"
+                      stroke-width="0.9099999999999999"
+                    ></g>
+                    <g id="SVGRepo_iconCarrier">
+                      {" "}
+                      <g>
+                        {" "}
+                        <path d="M0,0v455h455V0H0z M384.814,100.68l-53.458,257.136 c-1.259,6.071-8.378,8.822-13.401,5.172l-72.975-52.981c-4.43-3.217-10.471-3.046-14.712,0.412l-40.46,32.981 c-4.695,3.84-11.771,1.7-13.569-4.083l-28.094-90.351l-72.583-27.089c-7.373-2.762-7.436-13.171-0.084-16.003L373.36,90.959 C379.675,88.517,386.19,94.049,384.814,100.68z"></path>{" "}
+                        <path d="M313.567,147.179l-141.854,87.367c-5.437,3.355-7.996,9.921-6.242,16.068 l15.337,53.891c1.091,3.818,6.631,3.428,7.162-0.517l3.986-29.553c0.753-5.564,3.406-10.693,7.522-14.522l117.069-108.822 C318.739,149.061,316.115,145.614,313.567,147.179z"></path>{" "}
+                      </g>{" "}
+                    </g>
+                  </svg>
                 </a>
               </div>
-              {/* Success message */}
-              {/* <p className="text-center lg:text-left lg:absolute mt-2 opacity-75 text-sm">Thanks for subscribing!</p> */}
             </form>
           </div>
         </div>

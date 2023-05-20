@@ -1,6 +1,6 @@
 import Link from "next/link";
 import MobileMenu from "./mobile-menu";
-import Logo from "@/public/images/logo_new.png";
+import Logo from "@/public/images/logo.png";
 import Image from "next/image";
 
 export default function Header() {
