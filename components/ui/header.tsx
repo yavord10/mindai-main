@@ -2,6 +2,12 @@ import Link from "next/link";
 import MobileMenu from "./mobile-menu";
 import Logo from "@/public/images/logo.png";
 import Image from "next/image";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faInstagramSquare,
+  faTelegram,
+  faTwitterSquare,
+} from "@fortawesome/free-brands-svg-icons";
 
 export default function Header() {
   return (
@@ -15,6 +21,19 @@ export default function Header() {
               <Image className="w-24" src={Logo} alt="logo" />
             </Link>
           </div>
+
+          <FontAwesomeIcon
+            icon={faTelegram}
+            className="m-2 w-8 h-8 text-purple-600"
+          />
+          <FontAwesomeIcon
+            icon={faTwitterSquare}
+            className="m-2 w-8 h-8 text-purple-600"
+          />
+          <FontAwesomeIcon
+            icon={faInstagramSquare}
+            className="m-2 w-8 h-8 text-purple-600"
+          />
 
           {/* Desktop navigation */}
           <nav className="hidden md:flex md:grow">

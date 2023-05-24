@@ -53,11 +53,10 @@ export default function Features() {
                 />
               </svg>
               <h4 className="h4 mb-2">
-                <span className="text-emerald-400">20%</span> Token Distribution
+                <span className="text-emerald-400">30%</span> Presale
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Allocate 20% of tokens for distribution to Presale investors,
-                with a vesting period of 6 months.
+                Allocate 30% of tokens for distribution to Presale investors.
               </p>
             </div>
 
@@ -95,13 +94,13 @@ export default function Features() {
                 />
               </svg>
               <h4 className="h4 mb-2">
-                <span className="text-emerald-400">10%</span> Community Building
+                <span className="text-emerald-400">10%</span> Marketing
               </h4>
               <p className="text-lg text-gray-400 text-center">
                 Allocate 10% of the Presale funds to building the project
-                community. This could include hosting meetups, webinars, and
-                other events to engage with the community and build awareness of
-                the project.
+                community and marketing and development activities, including
+                hosting events, webinars, advertising, social media campaigns,
+                and development of the project roadmap.
               </p>
             </div>
 
@@ -150,12 +149,11 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">
-                <span className="text-emerald-400">30%</span> Marketing Strategy
+                <span className="text-emerald-400">5%</span> Airdrop
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Allocate 30% of the Presale funds to marketing and development
-                activities. This could include advertising, social media
-                campaigns, and development of the project roadmap.
+                Allocate 5% for Token Airdrop for early adopters that
+                participate in our airdrop campaign.
               </p>
             </div>
 
@@ -200,8 +198,8 @@ export default function Features() {
                 <span className="text-emerald-400">5%</span> Token Burn
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Burn 5% of the Presale tokens to reduce the supply and increase
-                the value of the remaining tokens.
+                Burn 5% to reduce the supply and increase the value of the
+                remaining tokens.
               </p>
             </div>
 
@@ -240,11 +238,11 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">
-                <span className="text-emerald-400">20%</span> Liquidity
+                <span className="text-emerald-400">45%</span> Liquidity
                 Provision
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Allocate 20% of the Presale funds to liquidity provision on
+                Allocate 45% of the Presale funds to liquidity provision on
                 decentralized exchanges (DEXs). This can help to ensure that the
                 token is easily accessible and tradeable.
               </p>
@@ -292,13 +290,10 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">
-                <span className="text-emerald-400">5%</span> Audit and Security
+                <span className="text-emerald-400">5%</span> Staking
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Allocate 5% of the Presale funds to audit and security measures.
-                This could include smart contract audits, penetration testing,
-                and other security measures to ensure the safety and security of
-                the project.
+                Allocate 5% of the supply to go towards staking rewards.
               </p>
             </div>
           </div>
