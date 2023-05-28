@@ -195,11 +195,12 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">
-                <span className="text-emerald-400">5%</span> Token Burn
+                <span className="text-emerald-400">5%</span> Team
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Burn 5% to reduce the supply and increase the value of the
-                remaining tokens.
+                To ensure a fair distribution of resources, we are allocating 5%
+                of the total tokens to the go team on a linear basis over a
+                12-month period.
               </p>
             </div>
 
