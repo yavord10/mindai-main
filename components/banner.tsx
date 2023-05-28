@@ -17,7 +17,7 @@ export default function Banner() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Go to Live Presale now!
+                Presale coming soon!
               </a>
             </div>
             <button
