@@ -16,7 +16,7 @@ export default function Testimonials() {
             <h2 className="h2 mb-4">Don't take our word for it</h2>
             <p className="text-xl text-gray-400">
               Check out some of the creators that are already creating and
-              having $MAIR airdropped!
+              having $MAIM airdropped!
             </p>
           </div>
 

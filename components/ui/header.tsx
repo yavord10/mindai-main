@@ -22,19 +22,18 @@ export default function Header() {
             </Link>
           </div>
 
-          <FontAwesomeIcon
-            icon={faTelegram}
-            className="m-2 w-8 h-8 text-purple-600"
-          />
-          <FontAwesomeIcon
-            icon={faTwitterSquare}
-            className="m-2 w-8 h-8 text-purple-600"
-          />
-          <FontAwesomeIcon
-            icon={faInstagramSquare}
-            className="m-2 w-8 h-8 text-purple-600"
-          />
-
+          <a href="https://t.me/mindaimusic">
+            <FontAwesomeIcon
+              icon={faTelegram}
+              className="m-2 w-8 h-8 text-purple-600"
+            />
+          </a>
+          <a href="https://twitter.com/MindAIMusic">
+            <FontAwesomeIcon
+              icon={faTwitterSquare}
+              className="m-2 w-8 h-8 text-purple-600"
+            />
+          </a>
           {/* Desktop navigation */}
           <nav className="hidden md:flex md:grow">
             {/* Desktop sign in links */}

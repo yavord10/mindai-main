@@ -54,10 +54,10 @@ export default function Hero() {
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              Presale coming soon! Purchase $MAIR tokens at a substantial
-              discount and seamlessly swap ETH for $MAIR without incurring any
+              Presale coming soon! Purchase $MAIM tokens at a substantial
+              discount and seamlessly swap ETH for $MAIM without incurring any
               fees, securing the lowest available price. During the Presale,
-              $MAIR tokens will be available at only $0.21 per token, compared
+              $MAIM tokens will be available at only $0.21 per token, compared
               to the public sale price of $0.53.
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">

@@ -97,10 +97,10 @@ export default function Features() {
                 <span className="text-emerald-400">10%</span> Marketing
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Allocate 10% of the Presale funds to building the project
-                community and marketing and development activities, including
-                hosting events, webinars, advertising, social media campaigns,
-                and development of the project roadmap.
+                Allocate 10% to building the project community and marketing and
+                development activities, including hosting events, webinars,
+                advertising, social media campaigns, and development of the
+                project roadmap.
               </p>
             </div>
 
@@ -242,7 +242,7 @@ export default function Features() {
                 Provision
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Allocate 45% of the Presale funds to liquidity provision on
+                Allocate 45% of the supply to liquidity provision on
                 decentralized exchanges (DEXs). This can help to ensure that the
                 token is easily accessible and tradeable.
               </p>
