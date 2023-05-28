@@ -51,7 +51,7 @@ export default function Zigzag() {
                   </div>
                   <h3 className="h3 mb-3">Participate in our Presale</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Swap USDT or ETH for $MAIM with 0 fees for only $0.21
+                    Swap USDT or ETH for $MAIM with low fees for only $0.21
                     compared to the public sale for $0.53.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">

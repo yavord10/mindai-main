@@ -48,6 +48,14 @@ export default function Header() {
               </li>
               <li>
                 <Link
+                  href="https://mindai-music.gitbook.io/mindai-music-3/"
+                  className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
+                >
+                  Litepaper
+                </Link>
+              </li>
+              <li>
+                <Link
                   href="https://famous-zabaione-503ef4.netlify.app/"
                   className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3 rounded-lg"
                 >
