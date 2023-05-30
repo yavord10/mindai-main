@@ -40,7 +40,7 @@ export default function Header() {
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <Link
-                  href="https://mindaiapp.netlify.app/"
+                  href="https://presale.mindaimusic.com/"
                   className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   Presale
@@ -56,7 +56,7 @@ export default function Header() {
               </li>
               <li>
                 <Link
-                  href="https://famous-zabaione-503ef4.netlify.app/"
+                  href="https://stake.mindaimusic.com/"
                   className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3 rounded-lg"
                 >
                   Staking App
@@ -64,7 +64,7 @@ export default function Header() {
               </li>
               <li>
                 <Link
-                  href="https://genuine-creponne-891d29.netlify.app/"
+                  href="https://mint.mindaimusic.com/"
                   className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3 rounded-lg"
                 >
                   NFT Minting App
