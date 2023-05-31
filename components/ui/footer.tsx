@@ -1,7 +1,5 @@
 import React from "react";
 import Link from "next/link";
-import Image from "next/image";
-import MindAvatar from "@/public/images/mindavatar.png";
 
 export default function Footer() {
   return (
@@ -27,14 +25,6 @@ export default function Footer() {
               <div className="text-gray-400">
                 MindAI 3.0 Music Suite of Apps and Solutions
               </div>
-              <Image
-                width={200}
-                height={200}
-                className="fixed bottom-0 right-0"
-                src={MindAvatar}
-                alt="mindavatar"
-                style={{ right: "-40px" }}
-              />
             </div>
           </div>
 
