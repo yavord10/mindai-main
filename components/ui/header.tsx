@@ -40,6 +40,14 @@ export default function Header() {
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <Link
+                  href="https://play.mindaimusic.com/"
+                  className="font-medium text-emerald-400 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
+                >
+                  Playground
+                </Link>
+              </li>
+              <li>
+                <Link
                   href="https://presale.mindaimusic.com/"
                   className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
