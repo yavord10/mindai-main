@@ -55,7 +55,7 @@ const Timeline = ({ setObserver, callback }: any) => {
     <div className="wrapper">
       <div id="timeline1" ref={timeline1} className="timeline" />
       <div className="circleWrapper">
-        <div id="circle1" ref={circle1} className="circle">
+        <div id="circle1" ref={circle1} className="circle text-emerald-400">
           1
         </div>
         {message1 && (
@@ -63,24 +63,59 @@ const Timeline = ({ setObserver, callback }: any) => {
             <div className="font-architects-daughter text-l text-purple-600 mb-2">
               Phase One:
             </div>
-            <h3 className="h3 mb-3 text-emerald-400">"Harmony Initiation"</h3>
-            <p className="text-l text-gray-400 mb-4">
+            <h3 className="h3 mb-3">"Harmony Initiation"</h3>
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Private Sale: Conduct private sale to secure initial funding for
               the project.
             </p>
-            <p className="text-l text-gray-400 mb-4">
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Coinmarketcap Listing: Get listed on Coinmarketcap to increase
               project visibility.
             </p>
-            <p className="text-l text-gray-400 mb-4">
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Airdrop Campaign: Implement an airdrop campaign to distribute
               tokens and generate interest.
             </p>
-            <p className="text-l text-gray-400 mb-4">
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Marketing: Launch comprehensive marketing campaigns to raise
               awareness about MindAI.
             </p>
-            <p className="text-l text-gray-400 mb-4">
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Community Growth: Focus on building a strong and engaged community
               through social media and community management efforts.
             </p>
@@ -89,7 +124,7 @@ const Timeline = ({ setObserver, callback }: any) => {
       </div>
       <div id="timeline2" ref={timeline2} className="timeline" />
       <div className="circleWrapper">
-        <div id="circle2" ref={circle2} className="circle">
+        <div id="circle2" ref={circle2} className="circle text-emerald-400">
           2
         </div>
         {message2 && (
@@ -97,24 +132,59 @@ const Timeline = ({ setObserver, callback }: any) => {
             <div className="font-architects-daughter text-l text-purple-600 mb-2">
               Phase Two:
             </div>
-            <h3 className="h3 mb-3 text-emerald-400">"Rhythm Expansion"</h3>
-            <p className="text-l text-gray-400 mb-4">
+            <h3 className="h3 mb-3">"Rhythm Expansion"</h3>
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Public Sale on Uniswap: Conduct a public sale on Uniswap to allow
               wider participation in the project.
             </p>
-            <p className="text-l text-gray-400 mb-4">
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Coingecko Listing: Get listed on Coingecko for broader exposure
               and accessibility.
             </p>
-            <p className="text-l text-gray-400 mb-4">
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Mass Marketing: Intensify marketing efforts to reach a larger
               audience and attract more users.
             </p>
-            <p className="text-l text-gray-400 mb-4">
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Community Partnerships: Collaborate with other music-related
               projects and influencers to expand the project's reach.
             </p>
-            <p className="text-l text-gray-400 mb-4">
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               AMAs and interactive Twitter Spaces discussions to engage with the
               community.
             </p>
@@ -123,7 +193,7 @@ const Timeline = ({ setObserver, callback }: any) => {
       </div>
       <div id="timeline3" ref={timeline3} className="timeline" />
       <div className="circleWrapper">
-        <div id="circle3" ref={circle3} className="circle">
+        <div id="circle3" ref={circle3} className="circle text-emerald-400">
           3
         </div>
         {message3 && (
@@ -131,16 +201,37 @@ const Timeline = ({ setObserver, callback }: any) => {
             <div className="font-architects-daughter text-l text-purple-600 mb-2">
               Phase Three:
             </div>
-            <h3 className="h3 mb-3 text-emerald-400">"Melody Activation"</h3>
-            <p className="text-l text-gray-400 mb-4">
+            <h3 className="h3 mb-3">"Melody Activation"</h3>
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Staking App Goes Live: Launch the staking app, enabling token
               holders to stake their tokens and earn rewards.
             </p>
-            <p className="text-l text-gray-400 mb-4">
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               NFT Minting App Goes Live: Introduce the NFT minting app, allowing
               creators to publish their music NFTs on the platform.
             </p>
-            <p className="text-l text-gray-400 mb-4">
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Stage 1 CEX Listings: Secure listings on select centralized
               exchanges to increase liquidity and accessibility.
             </p>
@@ -149,7 +240,7 @@ const Timeline = ({ setObserver, callback }: any) => {
       </div>
       <div id="timeline4" ref={timeline4} className="timeline" />
       <div className="circleWrapper">
-        <div id="circle4" ref={circle4} className="circle">
+        <div id="circle4" ref={circle4} className="circle text-emerald-400">
           4
         </div>
         {message4 && (
@@ -157,27 +248,62 @@ const Timeline = ({ setObserver, callback }: any) => {
             <div className="font-architects-daughter text-l text-purple-600 mb-2">
               Phase Four:
             </div>
-            <h3 className="h3 mb-3 text-emerald-400">"Sonic Revolution"</h3>
-            <p className="text-l text-gray-400 mb-4">
+            <h3 className="h3 mb-3">"Sonic Revolution"</h3>
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Main Admin 'Creator' App Goes Live: Launch the main admin creator
               app, providing users access to powerful AI music tools, enabling
               them to generate AI music and turn it into NFTs.
             </p>
-            <p className="text-l text-gray-400 mb-4">
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Mobile 'Listener' App Goes Live: Release the mobile app, allowing
               listeners to discover and enjoy AI-generated music, while
               generating royalties for creators.
             </p>
-            <p className="text-l text-gray-400 mb-4">
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Stage 2 CEX Listings: Expand listings on additional centralized
               exchanges to broaden the project's market presence.
             </p>
-            <p className="text-l text-gray-400 mb-4">
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Big Industry Partnerships: Forge partnerships with prominent
               players in the music industry to foster innovation and
               collaboration.
             </p>
-            <p className="text-l text-gray-400 mb-4">
+            <p className="flex items-center text-l text-gray-400 mb-4">
+              <svg
+                className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                viewBox="0 0 12 12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+              </svg>
               Community Events and More: Organize community-driven events,
               competitions, and initiatives to foster engagement, growth, and
               excitement within the MindAI community.
@@ -202,7 +328,7 @@ const WrappedTimeline = () => {
           The road to Music Revolution
         </div>
         <h1 className="h2 mb-4">MindAI Music Roadmap</h1>
-        <p className="text-l text-gray-400">
+        <p className="flex items-center text-l text-gray-400 justify-center">
           Seamless applications, powerful utility, ambitious roadmap
         </p>
       </div>
