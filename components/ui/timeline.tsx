@@ -5,7 +5,7 @@ import React, { useEffect, useRef, useState } from "react";
 import TimelineObserver from "react-timeline-animation";
 import { fireConfetti } from "./confetti";
 
-import "./styles.css";
+import "@/app/css/style.css";
 
 const Timeline = ({ setObserver, callback }: any) => {
   const [message1, setMessage1] = useState(false);
