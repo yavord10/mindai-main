@@ -29,9 +29,9 @@ export default function DefaultLayout({
       <main className="grow">
         <PageIllustration />
         {children}
+        <WrappedTimeline />
+        <Newsletter />
       </main>
-      <WrappedTimeline />
-      <Newsletter />
       <Footer />
     </>
   );
