@@ -121,7 +121,10 @@ const TimelineObserver = ({
       }
     });
   };
-  const observer = useRef(new IntersectionObserver(callback, options));
+  let observer: any =
+    typeof window !== "undefined" &&
+    window.IntersectionObserver &&
+    useRef(new IntersectionObserver(callback, options));
 
   const animation = () => {
     window.requestAnimationFrame(() => {
