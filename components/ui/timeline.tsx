@@ -3,7 +3,7 @@
 import React, { useEffect, useRef, useState } from "react";
 
 import TimelineObserver from "react-timeline-animation";
-import { fireConfetti } from "../../app/confetti";
+import { fireConfetti } from "./confetti";
 
 import "./styles.css";
 
