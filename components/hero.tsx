@@ -54,11 +54,13 @@ export default function Hero() {
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              Presale coming soon! Purchase $MAIM tokens at a substantial
-              discount and seamlessly swap ETH for $MAIM without incurring any
-              fees, securing the lowest available price. During the Presale,
-              $MAIM tokens will be available at only $0.001 per token, compared
-              to the public sale price of $0.0005.
+              MindAI is a cutting-edge crypto project that combines AI and
+              blockchain to revolutionize the music industry. MindAI allows
+              users to generate AI music, create music NFTs, stake to earn
+              rewards and listen to the AI-generated compositions, and earn
+              royalties for their creations. Holders have access to a suite of
+              music AI tools, artists can refine their compositions and explore
+              new horizons.
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
