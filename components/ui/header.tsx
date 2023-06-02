@@ -5,6 +5,7 @@ import Image from "next/image";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faInstagramSquare,
+  faMedium,
   faTelegram,
   faTwitterSquare,
 } from "@fortawesome/free-brands-svg-icons";
@@ -31,6 +32,12 @@ export default function Header() {
           <a href="https://twitter.com/MindAIMusic">
             <FontAwesomeIcon
               icon={faTwitterSquare}
+              className="m-2 w-8 h-8 text-purple-600"
+            />
+          </a>
+          <a href="https://mindaimusic.medium.com/">
+            <FontAwesomeIcon
+              icon={faMedium}
               className="m-2 w-8 h-8 text-purple-600"
             />
           </a>
