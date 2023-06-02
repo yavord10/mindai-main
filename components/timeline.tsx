@@ -63,7 +63,7 @@ const Timeline = ({ setObserver, callback }: any) => {
             <div className="font-architects-daughter text-l text-purple-600 mb-2">
               Phase One:
             </div>
-            <h3 className="h3 mb-3">"Harmony Initiation"</h3>
+            <h3 className="h3 mb-3 text-emerald-400">"Harmony Initiation"</h3>
             <p className="text-l text-gray-400 mb-4">
               Private Sale: Conduct private sale to secure initial funding for
               the project.
@@ -97,7 +97,7 @@ const Timeline = ({ setObserver, callback }: any) => {
             <div className="font-architects-daughter text-l text-purple-600 mb-2">
               Phase Two:
             </div>
-            <h3 className="h3 mb-3">"Rhythm Expansion"</h3>
+            <h3 className="h3 mb-3 text-emerald-400">"Rhythm Expansion"</h3>
             <p className="text-l text-gray-400 mb-4">
               Public Sale on Uniswap: Conduct a public sale on Uniswap to allow
               wider participation in the project.
@@ -131,7 +131,7 @@ const Timeline = ({ setObserver, callback }: any) => {
             <div className="font-architects-daughter text-l text-purple-600 mb-2">
               Phase Three:
             </div>
-            <h3 className="h3 mb-3">"Melody Activation"</h3>
+            <h3 className="h3 mb-3 text-emerald-400">"Melody Activation"</h3>
             <p className="text-l text-gray-400 mb-4">
               Staking App Goes Live: Launch the staking app, enabling token
               holders to stake their tokens and earn rewards.
@@ -157,7 +157,7 @@ const Timeline = ({ setObserver, callback }: any) => {
             <div className="font-architects-daughter text-l text-purple-600 mb-2">
               Phase Four:
             </div>
-            <h3 className="h3 mb-3">"Sonic Revolution"</h3>
+            <h3 className="h3 mb-3 text-emerald-400">"Sonic Revolution"</h3>
             <p className="text-l text-gray-400 mb-4">
               Main Admin 'Creator' App Goes Live: Launch the main admin creator
               app, providing users access to powerful AI music tools, enabling
