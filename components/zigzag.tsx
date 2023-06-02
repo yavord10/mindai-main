@@ -4,6 +4,7 @@ import FeatImage01 from "@/public/images/Presale_site.png";
 import FeatImage02 from "@/public/images/staking_mair.png";
 import FeatImage03 from "@/public/images/iphone_app_mair.png";
 import FeatImage04 from "@/public/images/mindai_nft.png";
+import WrappedTimeline from "./timeline";
 
 export default function Zigzag() {
   return (
@@ -287,6 +288,7 @@ export default function Zigzag() {
           </div>
         </div>
       </div>
+      <WrappedTimeline />
     </section>
   );
 }
