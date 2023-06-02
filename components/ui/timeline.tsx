@@ -1,9 +1,8 @@
 "use client";
 
 import React, { useEffect, useRef, useState } from "react";
-
-import TimelineObserver from "react-timeline-animation";
 import { fireConfetti } from "./confetti";
+import TimelineObserver from "./TimelineObserver";
 
 const Timeline = ({ setObserver, callback }: any) => {
   const [message1, setMessage1] = useState(false);
