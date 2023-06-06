@@ -76,3 +76,12 @@
   min-width: 450px;
   font-weight: bold;
 }
+
+@media screen and (max-width: 768px) {
+  .message-left,
+  .message-right {
+    position: initial;
+    min-width: 350px;
+    max-width: 400px;
+  }
+}

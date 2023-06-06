@@ -80,10 +80,29 @@ export default function MobileMenu() {
           </li>
           <li>
             <Link
-              href="https://extraordinary-paletas-55882a.netlify.app"
-              className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
+              href="https://litepaper.mindaimusic.com/"
+              className="flex font-medium w-full text-purple-600 hover:text-gray-200 py-2 justify-center"
+              onClick={() => setMobileNavOpen(false)}
             >
-              NFT mint
+              Litepaper
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="https://presale.mindaimusic.com/"
+              className="flex font-medium w-full text-purple-600 hover:text-gray-200 py-2 justify-center"
+              onClick={() => setMobileNavOpen(false)}
+            >
+              Presale
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="https://mint.mindaimusic.com"
+              className="flex font-medium w-full text-purple-600 hover:text-gray-200 py-2 justify-center"
+              onClick={() => setMobileNavOpen(false)}
+            >
+              NFT minting app
             </Link>
           </li>
           <li>
