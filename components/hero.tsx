@@ -1,4 +1,4 @@
-import Presale from "@/public/images/Presale_site.png";
+import Presale from "@/public/images/masterapp.png";
 import ModalVideo from "@/components/modal-video";
 
 export default function Hero() {
