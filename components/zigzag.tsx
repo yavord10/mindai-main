@@ -308,11 +308,11 @@ export default function Zigzag() {
               >
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
-                    Master app
+                    Master admin app
                   </div>
-                  <h3 className="h3 mb-3">Creator Admin Dashboard</h3>
+                  <h3 className="h3 mb-3">Creator Central</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Our admin dashboard will launch, offering creators an
+                    Our Creator Central app will launch, offering creators an
                     all-in-one solution to create music, track earnings, and
                     have access to a wide range of AI tools.
                   </p>
