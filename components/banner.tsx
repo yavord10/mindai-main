@@ -19,14 +19,9 @@ export default function Banner() {
             style={{ position: "relative", zIndex: "1" }}
           >
             <div className="text-slate-500 inline-flex">
-              <a
-                className="font-medium hover:underline text-emerald-400"
-                href="https://presale.mindaimusic.com/"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <span className="font-medium text-emerald-400" rel="noreferrer">
                 Presale coming soon!
-              </a>
+              </span>
             </div>
             <button
               className="text-slate-500 hover:text-slate-400 pl-2 ml-3 border-l border-gray-700"
