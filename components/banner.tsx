@@ -3,6 +3,7 @@
 import Image from "next/image";
 import MindAvatar from "@/public/images/mindavatar.png";
 import { useState } from "react";
+import Link from "next/link";
 
 export default function Banner() {
   const [bannerOpen, setBannerOpen] = useState<boolean>(true);
@@ -19,9 +20,13 @@ export default function Banner() {
             style={{ position: "relative", zIndex: "1" }}
           >
             <div className="text-slate-500 inline-flex">
-              <span className="font-medium text-emerald-400" rel="noreferrer">
-                Presale coming soon!
-              </span>
+              <Link
+                href="https://presale.mindaimusic.com/"
+                className="font-medium text-emerald-400"
+                rel="noreferrer"
+              >
+                Go to Live Presale now!
+              </Link>
             </div>
             <button
               className="text-slate-500 hover:text-slate-400 pl-2 ml-3 border-l border-gray-700"
