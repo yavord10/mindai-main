@@ -69,7 +69,7 @@ export default function MobileMenu() {
         }
       >
         <ul className="bg-gray-800 px-4 py-2">
-          <li>
+          {/* <li>
             <Link
               href="https://presale.mindaimusic.com/"
               className="flex font-medium w-full text-purple-600 hover:text-gray-200 py-2 justify-center"
@@ -77,7 +77,7 @@ export default function MobileMenu() {
             >
               Presale
             </Link>
-          </li>
+          </li> */}
           <li>
             <Link
               href="https://litepaper.mindaimusic.com/"

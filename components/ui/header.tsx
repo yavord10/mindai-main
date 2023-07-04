@@ -53,14 +53,14 @@ export default function Header() {
                   Playground
                 </Link>
               </li>
-              <li>
+              {/* <li>
                 <Link
                   href="https://presale.mindaimusic.com/"
                   className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   Presale
                 </Link>
-              </li>
+              </li> */}
               <li>
                 <Link
                   href="https://litepaper.mindaimusic.com"
